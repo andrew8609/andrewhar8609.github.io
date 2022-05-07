@@ -15,7 +15,8 @@
       let thisForm = this;
 
       let action = thisForm.getAttribute('action');
-      let recaptcha = thisForm.getAttribute('data-recaptcha-site-key');
+//       let recaptcha = thisForm.getAttribute('data-recaptcha-site-key');
+      let recaptcha = "6LfX580fAAAAAL0PwpBL7hUztvel3Va8wdOLyw9i";
       
       if( ! action ) {
         displayError(thisForm, 'The form action property is not set!')
