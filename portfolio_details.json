@@ -1,0 +1,45 @@
+{
+    "portfolio_1": {
+        "portfolio_category": "<strong>Category</strong>: ReactJS",
+        "portfolio_date": "<strong>Project date</strong>: 17 May, 2022",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://wecept.com'>https://wecept.com</a>",
+        "portfolio_title": "video comment uploader",
+        "portfolio_description": "Grouped users can view youtube video simultaneously sharing their current reactions. Each user can upload own video comments."
+    },
+    "portfolio_2": {
+        "portfolio_category": "<strong>Category</strong>: VueJS",
+        "portfolio_date": "<strong>Project date</strong>: Feb, 2019",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://www.farmhub360.com/'>https://www.farmhub360.com/</a>",
+        "portfolio_title": "Our goal is to help Customers to get fresh foods within the shortest possible time.",
+        "portfolio_description": "Farmershub360 is a platform that allows farmers around the world to be able to showcase their farm produces to the customer or to distributors that can buy directly from the farmers. Farmerhub360.com is an online portal available 24/7 to the internet customers, It ís a virtual online market place facilitation easy buying and selling of farm produces such as Livestock, Aquaculture, Crops, Farm Equipments and Farm services such as Veterinary Doctors e.t.c"
+    },
+    "portfolio_3": {
+        "portfolio_category": "<strong>Category</strong>: ReactJS",
+        "portfolio_date": "<strong>Project date</strong>: Apr, 2019",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='http://lentora.com/'>http://lentora.com</a>",
+        "portfolio_title": "Online shopping center",
+        "portfolio_description": "Selling various kinds of goods including books, video games..."
+    },
+    "portfolio_4": {
+        "portfolio_category": "<strong>Category</strong>: ReactJS",
+        "portfolio_date": "<strong>Project date</strong>: May, 2019",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://scoutbar.co'>https://scoutbar.co</a>",
+        "portfolio_title": "Scoutbar",
+        "portfolio_description": "Navigation tool that significantly increases efficiency by reducing the number of clicks it takes you to navigate the web."
+    },
+    "portfolio_5": {
+        "portfolio_category": "<strong>Category</strong>: ReactJS",
+        "portfolio_date": "<strong>Project date</strong>: Nov, 2020",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://shoprrr.netlify.app/'>https://shoprrr.netlify.app</a>",
+        "portfolio_title": "An E-commerce Application For Buying Cotton Products.",
+        "portfolio_description": "Shoprrr is an e-commerce platform catered towards giving the best and fast experience for customers to buy cotton products, we call its a frictionless process from start to finish."
+    },
+    "portfolio_6": {
+        "portfolio_category": "<strong>Category</strong>: ReactJS, POS",
+        "portfolio_date": "<strong>Project date</strong>: 2021",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://www.pengolincoin.xyz/'>https://www.pengolincoin.xyz</a>",
+        "portfolio_title": "New Proof of Stack Coin",
+        "portfolio_description": "PengolinCoin (PGO) is a Proof of Stake (PoS), open source, decentralized blockchain-based cryptocurrency utilizing the zkSNARKS and Sapling privacy protocols for shielded transactions. PengolinCoin is focused on user privacy, achieving fast and inexpensive transactions, an active and involved community, and real-world utilization."
+    }
+
+}
