@@ -36,10 +36,31 @@
     },
     "portfolio_6": {
         "portfolio_category": "<strong>Category</strong>: ReactJS, POS",
-        "portfolio_date": "<strong>Project date</strong>: 2021",
+        "portfolio_date": "<strong>Project date</strong>: 2020",
         "portfolio_url": "<strong>Project URL</strong>: <a href='https://www.pengolincoin.xyz/'>https://www.pengolincoin.xyz</a>",
         "portfolio_title": "New Proof of Stack Coin",
         "portfolio_description": "PengolinCoin (PGO) is a Proof of Stake (PoS), open source, decentralized blockchain-based cryptocurrency utilizing the zkSNARKS and Sapling privacy protocols for shielded transactions. PengolinCoin is focused on user privacy, achieving fast and inexpensive transactions, an active and involved community, and real-world utilization."
+    },
+    "portfolio_7": {
+        "portfolio_category": "<strong>Category</strong>: ReactJS, Solitity, Ethereum",
+        "portfolio_date": "<strong>Project date</strong>: 2021",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://classic-swaggos.com/'>https://classic-swaggos.com</a>",
+        "portfolio_title": "NFT marketplace",
+        "portfolio_description": "Classic Swaggos are a collection of 10,000 NFT’s that have their own unique designs. There is a order of rarity that makes certain ones more valuable than the others. With minting these you have the chance of getting a super rare Swaggo. Rarity is not everything as some people may like a certain type of design for building a collection. Making minting these fun and exciting!"
+    },
+    "portfolio_8": {
+        "portfolio_category": "<strong>Category</strong>: Laravel, Mysql, Blockchain",
+        "portfolio_date": "<strong>Project date</strong>: 2020",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://wheat.growthdefi.com'>https://wheat.growthdefi.com/</a>",
+        "portfolio_title": "Multi-Chain Token Swap platform",
+        "portfolio_description": "This website helps users to swap multi chain tokens."
+    },
+    "portfolio_9": {
+        "portfolio_category": "<strong>Category</strong>: ReactJS, Solidity, Web3.js",
+        "portfolio_date": "<strong>Project date</strong>: 2020",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://thedogepoundnft.com'>https://thedogepoundnft.com/</a>",
+        "portfolio_title": "NFT marketplace",
+        "portfolio_description": "The Doge Pound is a collection of 10,000 dogs themed NFTs (Non-Fungible Tokens) designed with various permutations and combinations of features such as the image background, clothing, earring, eyes, eyewear, mouth, fur, and hat. The entire collection is living on the Ethereum blockchain as ERC-721 tokens. It is the first collection launched under the Doge Pound Studios brand."
     }
 
 }
