@@ -61,6 +61,13 @@
         "portfolio_url": "<strong>Project URL</strong>: <a href='https://thedogepoundnft.com'>https://thedogepoundnft.com/</a>",
         "portfolio_title": "NFT marketplace",
         "portfolio_description": "The Doge Pound is a collection of 10,000 dogs themed NFTs (Non-Fungible Tokens) designed with various permutations and combinations of features such as the image background, clothing, earring, eyes, eyewear, mouth, fur, and hat. The entire collection is living on the Ethereum blockchain as ERC-721 tokens. It is the first collection launched under the Doge Pound Studios brand."
+    },
+    "portfolio_10": {
+        "portfolio_category": "<strong>Category</strong>: AWS S3, Lambda, SQS, MediaConvert, C++",
+        "portfolio_date": "<strong>Project date</strong>: 2022",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://github.com/andrew8609/aws_mediaconvert_cpp/</a>",
+        "portfolio_title": "AWS Video Converter Automation Pipeline",
+        "portfolio_description": "Designed and implemented media conversion automation pipeline using AWS services and c++ multi-threading"
     }
 
 }
