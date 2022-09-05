@@ -65,7 +65,7 @@
     "portfolio_10": {
         "portfolio_category": "<strong>Category</strong>: AWS S3, Lambda, SQS, MediaConvert, C++",
         "portfolio_date": "<strong>Project date</strong>: 2022",
-        "portfolio_url": "<strong>Project URL</strong>: <a href='https://github.com/andrew8609/aws_mediaconvert_cpp/</a>",
+        "portfolio_url": "<strong>Project URL</strong>: <a href='https://github.com/andrew8609/aws_mediaconvert_cpp'>https://github.com/andrew8609/aws_mediaconvert_cpp</a>",
         "portfolio_title": "AWS Video Converter Automation Pipeline",
         "portfolio_description": "Designed and implemented media conversion automation pipeline using AWS services and c++ multi-threading"
     }
